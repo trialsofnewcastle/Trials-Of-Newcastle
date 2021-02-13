@@ -7,3 +7,6 @@ This project is the development of a second chapter in the Trials of Newcastle s
 
 We are presently looking for additional scripters, map designers, custom content makers and DMs to join our project team. We would also be interested in hearing from someone with skills in front end web design.
 
+# Letting the team know about issues with the module #
+
+This is for team members and players. For players, you can submit bugs you find in-game. For team members, you can request help with issues and attach those request to specific files in a pull request. If you're not familiar with the Issues functionality on GitHub, this [help page](https://docs.github.com/en/rest/reference/issues) is for you.
