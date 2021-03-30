@@ -1,7 +1,7 @@
 ![Original](https://user-images.githubusercontent.com/39077224/109463795-80ee1080-7aca-11eb-9e7e-fbf3ce04ed5a.png)
 
 # Project Description #
-Trials of Newcastle: Legendary Edition isa second chapter in the Trials of Newcastle story and is focused on NWN:EE, the Enhanced Edition of  the Dungeons and Dragons game, Neverwinter Nights (NWN). Trials of Newcastle was voted into the Neverwinter Vault's Hall of Fame with a voted community rating of 10/10 after 100 reviews of the server were completed.
+Trials of Newcastle: Legendary Edition is the second chapter in the Trials of Newcastle story and is focused on NWN:EE, the Enhanced Edition of  the Dungeons and Dragons game, Neverwinter Nights (NWN). 
 
 We are presently looking for additional scripters, map designers, custom content makers and DMs to join our project team. We would also be interested in hearing from someone with skills in front end web design.
 
