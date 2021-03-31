@@ -9,8 +9,7 @@ Trials of Newcastle: Legendary Edition is the second chapter in the Trials of Ne
 
 ## Join the Team
 - [Join the Dev Team](https://github.com/trialsofnewcastle/NWN/wiki/Seeking-Scripters,-DMs,-Map-Designers-and-Custom-Content-Makers).
-- [Game Design Brief](https://github.com/trialsofnewcastle/NWN/wiki/Seeking-Scripters,-DMs,-Map-Designers-and-Custom-Content-Makers). 
-
+- [Game Design Brief](https://github.com/trialsofnewcastle/nwnee/wiki/Game-Design-Document). 
 We are presently looking for additional scripters, map designers, custom content makers and DMs to join our project team. We would also be interested in hearing from someone with skills in front end web design.
 
 # Letting the team know about [issues](https://github.com/trialsofnewcastle/Trials-Of-Newcastle/issues) with the module #
